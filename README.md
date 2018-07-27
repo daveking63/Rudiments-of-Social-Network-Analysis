@@ -7,7 +7,9 @@ To put it succinctly, <b>Social Network Analysis</b> (SNA) "can be described as 
 
 <h4> Some Key Definitions</h4>
 
-<b>Graph theory</b> is a branch of mathematics obviously devoted to the study of *graphs*," where a <b>graph</b> is defined "as a set of vertices, nodes or points connected by a set of edges, links or lines." While the terms are interchangeable, we will use the terms node and edge in this discussion. The term <b>network</b> is used to encompass a graph along with added data about the attributes of the nodes and edges (e.g. the *degree* of node or the strength or weight of the edge or connection).  
+<b>Graph theory</b> is a branch of mathematics obviously devoted to the study of *graphs*," where a <b>graph</b> is defined "as a set of vertices, nodes or points connected by a set of edges, links or lines." While the terms are interchangeable, we will use the terms node and edge in this discussion. The term <b>network</b> is used to encompass a graph along with added data about the attributes of the nodes and edges (e.g. the *degree* of node or the strength or weight of the edge or connection).
+
+![alt text](graph.png "Key Elements of a Graph")
  
 Graph theory, graphs and networks have been used in a variety of application areas including physical, biological, social, and information systems. In the case of social systems and SNA, the <b>nodes</b> are typically social actors (individuals or collections of people sharing one or more characteristics) or the artifacts produced by the actors (e.g. emails or tweets, tags, articles or blogs, etc.).  In the same vein, the <b>edges</b> represent the relations or connections among the nodes. Like nodes, there is quite a bit of variety among the different *types of social connections*:
 
