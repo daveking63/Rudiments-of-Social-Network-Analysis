@@ -5,7 +5,7 @@ A brief overview of the key objectives and processes of Social Network Analysis 
 
 To put it succinctly, *Social Network Analysis* (SNA) "can be described as a *study of human relations by means of graph theory*." 
 
-*Graph theory* is a branch of mathematics obviously devoted to the study of *graphs*," where a graph is defined "as a set of nodes, vertices or points connected by a set of edges, arcs, or lines." Often, the term *network* is used to encompass a graph along with added information about the nodes (e.g. the *degree* of node) and/or edges (e.g. strength of the edge or connection).  
+*Graph theory* is a branch of mathematics obviously devoted to the study of *graphs*," where a graph is defined "as a set of vertices, nodes or points connected by a set of edges, links or lines." While the terms are interchangeable, we will use the terms node and edge in this discussion. Often, the term *network* is used to encompass a graph along with added information about the nodes (e.g. the *degree* of node) and/or edges (e.g. strength of the edge or connection).  
 
 Graph theory, graphs and networks have been used in a variety of application areas, including physical, biological, social and information systems. In the case of social systems and SNA, the nodes are typically people, collections of people sharing a one or more characteristics (e.g. programmers who know particular programming languages), or social groups (e.g. family or friends), while the edges represent the social relations among the nodes. In this case the goal is to use graph theory to visualize, depict, analyze and interpret the patterns of social relations among the nodes.
 
