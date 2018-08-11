@@ -24,11 +24,13 @@ In addition to the type of relations, distinctions are also made among edges in 
 
 <img src=https://github.com/daveking63/Rudiments-of-Social-Network-Analysis/blob/master/NetworkGraphDirectionWeight.jpg  width="500" height="350">
  
-SNA has it's genesis in the early days of the social sciences (like sociology) dating at least to the early 1900s. As a number of sources document, SNA was only of interest to small cadre of social scientists until the mid-1970s and didn't really come popular atttention until the early 2000s with the rise of social media on the Web, as well as the the availability of social media APIs (e.g. Twitter) enabling the collection of large amounts of social network data. 
+SNA has it's genesis in the early days of the social sciences (like sociology) dating at least to the early 1900s. As a number of sources document, SNA was only of interest to small cadre of social scientists until the mid-1970s and didn't really come popular attention until the early 2000s with the rise of social media on the Web, as well as the the availability of social media APIs (e.g. Twitter) enabling the collection of large amounts of social network data. 
 
 With this rise came an onslaught of books and research papers devoted to network analysis in general and SNA in particular.  Similarly, there has been a rise in the availability of specialized programs and languages devoted this form of analysis and various websites devoted to these programs and languages. For those who are interested in these general topics, see:
 
 <ul>
 <li><a href='https://github.com/daveking63/Rudiments-of-Social-Network-Analysis/blob/master/SNA-Resources.md'>SNA Resources</a> (in this repository).</li>
+<li><a href='https://www.kdnuggets.com/software/social-network-analysis.html'>KDNuggets.com SNA</a></li>
 <li><a href='https://www.kdnuggets.com/2015/06/top-30-social-network-analysis-visualization-tools.html'>KDNuggets.com Top 30 SNA Visualization Tools</a></li>
+<li><a href='https://www.rankred.com/free-social-network-analysis-tools/'>Free SNA Tools</a></li>
 </ul>
