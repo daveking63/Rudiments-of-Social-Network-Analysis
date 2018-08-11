@@ -31,6 +31,6 @@ With this rise came an onslaught of books and research papers devoted to network
 <ul>
 <li><a href='https://github.com/daveking63/Rudiments-of-Social-Network-Analysis/blob/master/SNA-Resources.md'>SNA Resources</a> -- Bibliographic listing of key books, papers, presentations, and journals dealing with SNA and some of the major tools used to visualize and analyze social networks.</li> 
 <li><a href='https://www.kdnuggets.com/software/social-network-analysis.html'>KDNuggets.com SNA</a></li> -- List of commercial software, sites for SNA, and free and open source SNA software.</li>
-<li><a href='https://www.kdnuggets.com/2015/06/top-30-social-network-analysis-visualization-tools.html'>KDNuggets.com Top 30 SNA Visualization Tools</a></li> -- List of 30 frequently used commercial and free SNA software packages along with a short description of each with links to the associated web sites.</li>
-<li><a href='https://www.rankred.com/free-social-network-analysis-tools/'>Free SNA Tools</a></li> -- List of 21 free SNA tools along with a brief description and image of each tool as links to the associated web site.</li>
+<li><a href='https://www.kdnuggets.com/2015/06/top-30-social-network-analysis-visualization-tools.html'>KDNuggets.com Top 30 SNA Visualization Tools</a></li> -- List of 30 frequently used commercial and free SNA software packages along with a short description of each and a link to the corresponding web site.</li>
+<li><a href='https://www.rankred.com/free-social-network-analysis-tools/'>Free SNA Tools</a></li> -- List of 21 free SNA tools along with a brief description and image of each tool and a link to the associated web site.</li>
 </ul>
