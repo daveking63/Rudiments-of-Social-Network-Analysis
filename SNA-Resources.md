@@ -1,4 +1,4 @@
-<h3>Published Books -- all can be reviewed on Amazon</h3>
+<h3>Published Books -- all are available on Amazon</h3>
 <br>
 Title: A User’s Guide to Network Analysis in R<br>
 Authors: Douglas Luke<br>
@@ -221,13 +221,6 @@ Network Science: http://journals.cambridge.org/action/displayJournal?jid=nws<br>
 Journal of Social Structure: http://www.cmu.edu/joss/content/articles/volindex.html<br>
 Journal of Mathematical Sociology: http://www.tandfonline.com/toc/gmas20/current<br>
 Social Network Analysis and Mining (SNAM): https://www.springer.com/computer/database+management+&+information+retrieval/journal/13278<br>
-<br>
-<h3>Tools: Top 30 Social Network Analysis and Visualization Tools - Pages 1, 2 & 3</h3>
-
-Source: https://www.kdnuggets.com/2015/06/top-30-social-network-analysis-visualization-tools.html<br>
-Author: KDNUGGETS site<br>
-Date: Updated 2015<br>
-Note: A thorough list of most of the popular "free" network analysis tools<br>
 <br>
 
 
