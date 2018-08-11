@@ -221,7 +221,6 @@ Network Science: http://journals.cambridge.org/action/displayJournal?jid=nws<br>
 Journal of Social Structure: http://www.cmu.edu/joss/content/articles/volindex.html<br>
 Journal of Mathematical Sociology: http://www.tandfonline.com/toc/gmas20/current<br>
 Social Network Analysis and Mining (SNAM): https://www.springer.com/computer/database+management+&+information+retrieval/journal/13278<br>
-<br>
 
 
 
