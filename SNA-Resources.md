@@ -52,10 +52,10 @@ Publisher: Cambridge University Press<br>
 Date: November 12, 2012<br>
 Tools: Pajek, ORA, UCINET-NetDraw<br>
 <br>
-Title: Exploratory Social Network Analysis with Pajek (Structural Analysis in the Social Sciences) Expanded edition<br>
+Title: Exploratory Social Network Analysis with Pajek (Revised and Expanded Edition for Updated Software - 3rd Edition)<br>
 Authors: Wouter De Nooy, Andrej Mrvar, Vladimir Batagelj<br>
 Publisher: Cambridge University Press<br>
-Date: September 30, 2011<br>
+Date: 2018<br>
 Tools: Pajek<br>
 <br>
 Title: Graph Theory and Complex Networks: An Introduction Paperback<br>
